@@ -56,3 +56,28 @@ footer {
     bottom: 20px;
     font-size: 0.9rem;
 }
+<body>
+    <div class="fondo-animado"></div>
+    
+    <header>
+        <h1>Genealógico</h1>
+        <p>Bienvenido al árbol genealógico de la familia</p>
+        <!-- Aquí es donde debes añadir el botón -->
+    </header>
+
+    <main>
+        <section>
+            <h2>Acerca de</h2>
+            <p>Este proyecto tiene como objetivo documentar el linaje de nuestra familia.</p>
+        </section>
+
+        <section>
+            <h2>Árbol Familiar</h2>
+            <p>Aquí encontrarás la estructura del árbol genealógico.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Genealógico. Todos los derechos reservados.</p>
+    </footer>
+</body>
